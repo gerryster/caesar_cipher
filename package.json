@@ -1,0 +1,14 @@
+{
+  "name": "caesar_cipher",
+  "version": "0.0.1",
+  "description": "Toy Caesar Cipher Implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Gerry",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
